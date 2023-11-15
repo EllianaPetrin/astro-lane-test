@@ -1,6 +1,13 @@
 [
     {
         "id": "3",
+        "title": "EWU CS PROGRAM",
+        "link": "https://articoole.chrstnl.com/",
+        "logo": "/icons/articoole-icon.png",
+        "shortExcerpt": "LEARNING CS"
+    },
+    {
+        "id": "3",
         "title": "Articoole",
         "link": "https://articoole.chrstnl.com/",
         "logo": "/icons/articoole-icon.png",
